@@ -1338,7 +1338,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>npci=0x2000 alcid=1 watchdog=0 agdpmod=pikera dk.e1000=0 e1000=0 amfi=0x80 -brcmfxbeta -amfipassbeta</string>
+				<string>-v npci=0x2000 alcid=1 watchdog=0 agdpmod=pikera dk.e1000=0 e1000=0 amfi=0x80 -brcmfxbeta -amfipassbeta</string>
 				<key>csr-active-config</key>
 				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
